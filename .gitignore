@@ -1,0 +1,33 @@
+# 二进制文件
+*.exe
+*.dll
+*.so
+*.a
+
+# 测试覆盖文件
+.data/
+
+*.out
+*.sst
+*.wal
+
+# Go 工作区
+go.work
+
+# 依赖目录
+vendor/
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 环境文件
+.env
+*.env
+
+# 日志文件
+*.log
+
+# 临时文件
+*.bak
+*.tmp 
